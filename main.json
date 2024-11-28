@@ -1,0 +1,155 @@
+{
+    "dictations": [
+      {
+        "level": "A1",
+        "entries": [
+          {
+            "dictation": "A1 Dictation 1",
+            "audio": "https://server-diktat-1-01.onrender.com/192_kbs.mp3",
+            "text": "Text A1 Dictation 1"
+          },
+          {
+            "dictation": "A1 Dictation 2",
+            "audio": "https://server-diktat-1-01.onrender.com/corrupted_128_kbs.mp3",
+            "text": "Text A1 Dictation 2"
+          },
+          {
+            "dictation": "A1 Dictation 3",
+            "audio": "https://server-diktat-1-01.onrender.com/corrupted_192_kbs.mp3",
+            "text": "Text A1 Dictation 3"
+          },
+          {
+            "dictation": "A1 Dictation 4",
+            "audio": "https://server-diktat-1-01.onrender.com/corrupted_64_kbs.mp3",
+            "text": "Text A1 Dictation 4"
+          }
+        ]
+      },
+      {
+        "level": "A2",
+        "entries": [
+          {
+            "dictation": "A2 Dictation 1",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/ballad_past_meridian_meredith_add.mp3",
+            "text": "Text A2 Dictation 1"
+          },
+          {
+            "dictation": "A2 Dictation 2",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/how_did_you_die_vance_mtr.mp3",
+            "text": "Text A2 Dictation 2"
+          },
+          {
+            "dictation": "A2 Dictation 3",
+            "audio": "https://ia601604.us.archive.org/21/items/shortpoetry_047_librivox/in_a_garden_swinburne_af_64kb.mp3",
+            "text": "Text A2 Dictation 3"
+          },
+          {
+            "dictation": "A2 Dictation 4",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/in_a_garden_swinburne_af.mp3",
+            "text": "Text A2 Dictation 4"
+          }
+        ]
+      },
+      {
+        "level": "B1",
+        "entries": [
+          {
+            "dictation": "B1 Dictation 1",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/last_lines_bronte_add.mp3",
+            "text": "Text B1 Dictation 1"
+          },
+          {
+            "dictation": "B1 Dictation 2",
+            "audio": "https://ia601604.us.archive.org/21/items/shortpoetry_047_librivox/last_lines_bronte_add_64kb.mp3",
+            "text": "Text B1 Dictation 2"
+          },
+          {
+            "dictation": "B1 Dictation 3",
+            "audio": "https://ia601604.us.archive.org/21/items/shortpoetry_047_librivox/lawsofgodthelawsofman_housman_jb.mp3",
+            "text": "Text B1 Dictation 3"
+          },
+          {
+            "dictation": "B1 Dictation 4",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/london_blake_drb.mp3",
+            "text": "Text B1 Dictation 4"
+          }
+        ]
+      },
+      {
+        "level": "B2",
+        "entries": [
+          {
+            "dictation": "B2 Dictation 1",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/london_blake_drb_64kb.mp3",
+            "text": "Text B2 Dictation 1"
+          },
+          {
+            "dictation": "B2 Dictation 2",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/musical_instrument_ebbrowning_add_64kb.mp3",
+            "text": "Text B2 Dictation 2"
+          },
+          {
+            "dictation": "B2 Dictation 3",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/near_avalon_morris_add.mp3",
+            "text": "Text B2 Dictation 3"
+          },
+          {
+            "dictation": "B2 Dictation 4",
+            "audio": "https://ia601604.us.archive.org/21/items/shortpoetry_047_librivox/near_avalon_morris_add_64kb.mp3",
+            "text": "Text B2 Dictation 4"
+          }
+        ]
+      },
+      {
+        "level": "C1",
+        "entries": [
+          {
+            "dictation": "C1 Dictation 1",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/portent_melville_add.mp3",
+            "text": "Text C1 Dictation 1"
+          },
+          {
+            "dictation": "C1 Dictation 2",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/portent_melville_add_64kb.mp3",
+            "text": "Text C1 Dictation 2"
+          },
+          {
+            "dictation": "C1 Dictation 3",
+            "audio": "https://ia601604.us.archive.org/21/items/shortpoetry_047_librivox/requiem_stevenson_mtr_64kb.mp3",
+            "text": "Text C1 Dictation 3"
+          },
+          {
+            "dictation": "C1 Dictation 4",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/silence_hood_cjrg_64kb.mp3",
+            "text": "Text C1 Dictation 4"
+          }
+        ]
+      },
+      {
+        "level": "C2",
+        "entries": [
+          {
+            "dictation": "C2 Dictation 1",
+            "audio": "Audio C2 Dictation 1",
+            "text": "Text C2 Dictation 1"
+          },
+          {
+            "dictation": "C2 Dictation 2",
+            "audio": "https://ia601604.us.archive.org/21/items/shortpoetry_047_librivox/single_hound_dickinson_cjrg.mp3",
+            "text": "Text C2 Dictation 2"
+          },
+          {
+            "dictation": "C2 Dictation 3",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/single_hound_dickinson_cjrg_64kb.mp3",
+            "text": "Text C2 Dictation 3"
+          },
+          {
+            "dictation": "C2 Dictation 4",
+            "audio": "https://ia801604.us.archive.org/21/items/shortpoetry_047_librivox/london_blake_drb.mp3",
+            "text": "Text C2 Dictation 4"
+          }
+        ]
+      }
+    ]
+  }
+  
